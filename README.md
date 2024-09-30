@@ -11,7 +11,7 @@ This is a simple implementation of the SOS game where you can play as the blue o
 
 ### Play the Game Online
 
-You can play the game directly by visiting [this link](https://your-username.github.io/SOS-game).
+You can play the game directly by visiting [this link](https://talen1.github.io/test-sos/).
 
 ### Technologies Used
 
